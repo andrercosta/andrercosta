@@ -2,6 +2,7 @@
 
 -💼 Hoje trabalho como desenvolvedor front end Angular<br/> 
 -📚 Estudando AWS e RUST<br/> 
+-🧑🏽‍💻 No tempo livre aprendendo a desenvolver Jogos.
 <div align="center">
   <a href="https://github.com/andrercosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrercosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
