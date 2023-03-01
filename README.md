@@ -1,7 +1,7 @@
 ## Oi eu sou o André Costa, desenvolvedor e apaixonado por tecnologia!
 
--💼 Hoje trabalho como desenvolvedor FullStack (Dotnet,Angular,Xamarin)<br/> 
--📚 Estudando Vue JS<br/> 
+-💼 Hoje trabalho como desenvolvedor front end Angular<br/> 
+-📚 Estudando AWS e RUST<br/> 
 <div align="center">
   <a href="https://github.com/andrercosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrercosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
