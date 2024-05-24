@@ -1,7 +1,7 @@
 ## Oi eu sou o André Costa, desenvolvedor e apaixonado por tecnologia!
 
--💼 Hoje trabalho como desenvolvedor front end Angular<br/> 
--😀 Gosto de Cloud Computing <br/>
+-💼 Hoje trabalho como desenvolvedor Full Stack C# Angular e AWS <br/> 
+-😀 Gosto de Cloud Computing e Python <br/>
 -📚 Estudando RUST<br/> 
 -🧑🏽‍💻 No tempo livre aprendendo a desenvolver Jogos.
 <div align="center">
