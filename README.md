@@ -1,6 +1,6 @@
 ## Oi eu sou o André Costa, desenvolvedor e apaixonado por tecnologia!
 
--💼 Hoje trabalho como desenvolvedor Full Stack C# Angular e AWS <br/> 
+-💼 Hoje trabalho como desenvolvedor Full Stack C# | Angular |  AWS <br/> 
 -😀 Gosto de Cloud Computing e Python <br/>
 -📚 Estudando RUST<br/> 
 -🧑🏽‍💻 No tempo livre aprendendo a desenvolver Jogos.
